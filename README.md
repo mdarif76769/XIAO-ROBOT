@@ -123,8 +123,9 @@ After completing all the steps, the robot moves by receiving voice messages and 
 ## :wave: Contributing
 
 <a href="https://github.com/mdarif76769/XIAO-ROBOT/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=mdarif76769/XIAO-ROBOT" />
-</a>
+  <img src="https://contrib.rocks/image?repo=mdarif76769/XIAO-ROBOT" /></a>
+
+
 <!-- License -->
 ## :warning: License
 
