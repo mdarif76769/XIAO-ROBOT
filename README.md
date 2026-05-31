@@ -1,7 +1,6 @@
 <div align="center">
 
-  <img src="https://user-images.githubusercontent.com/62047147/195847997-97553030-3b79-4643-9f2c-1f04bba6b989.png" alt="logo" width="100" height="auto"/>
-  <h1>XIAO ROBOT</h1>
+  <img src="https://user-images.githubusercontent.com/62047147/195847997-97553030-3b79-4643-9f2c-1f04bba6b989.png" alt="logo" width="100" height="auto"/><h1>XIAO ROBOT</h1>
   
   <p>
     VOICE RECOGNITION ROBOT with XIAO nRF52840 Sense
@@ -10,9 +9,9 @@
   
 <!-- Badges -->
 
-<a href="https://github.com/cifertech/XIAO-ROBOT" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cifertech&message=XIAO-ROBOT&color=white&logo=github" alt="cifertech - XIAO-ROBOT"></a>
-<a href="https://github.com/cifertech/XIAO-ROBOT"><img src="https://img.shields.io/github/stars/cifertech/XIAO-ROBOT?style=social" alt="stars - XIAO-ROBOT"></a>
-<a href="https://github.com/cifertech/XIAO-ROBOT"><img src="https://img.shields.io/github/forks/cifertech/XIAO-ROBOT?style=social" alt="forks - XIAO-ROBOT"></a>
+<a href="https://github.com/mdarif76769/XIAO-ROBOT" title="Go to GitHub repo"><img src="https://img.shields.io/static/v1?label=cifertech&message=XIAO-ROBOT&color=white&logo=github" alt="cifertech - XIAO-ROBOT"></a>
+<a href="https://github.com/mdarif76769/XIAO-ROBOT"><img src="https://img.shields.io/github/stars/mdarif76769/XIAO-ROBOT?style=social" alt="stars - XIAO-ROBOT"></a>
+<a href="https://github.com/mdarif76769/XIAO-ROBOT"><img src="https://img.shields.io/github/forks/mdarif76769/XIAO-ROBOT?style=social" alt="forks - XIAO-ROBOT"></a>
    
 <h4>
     <a href="https://twitter.com/cifertech1">TWITTER</a>
