@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://raw.githubusercontent.com/mdarif76769/XIAO-ROBOT/main/XIAO-ROBOT/logoDiV.png" alt="logo" width="200" height="auto"/><h1>XIAO ROBOT</h1>
+  <img src="https://raw.githubusercontent.com/mdarif76769/XIAO-ROBOT/main/XIAO-ROBOT/logoDiV.png" alt="logo" width="500" height="auto"/><h1>XIAO ROBOT</h1>
   
   <p>
     VOICE RECOGNITION ROBOT with XIAO nRF52840 Sense
